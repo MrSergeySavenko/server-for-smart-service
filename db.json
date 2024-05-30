@@ -80,15 +80,15 @@
     ],
     "links": [
         {
-            "img": "Telegram.svg",
+            "img": "./Telegram.svg",
             "link": "https://web.telegram.org/a/"
         },
         {
-            "img": "Whatsapp.svg",
+            "img": "./Whatsapp.svg",
             "link": "https://www.whatsapp.com/?lang=ru_RU"
         },
         {
-            "img": "Viber.svg",
+            "img": "./Viber.svg",
             "link": "https://www.viber.com/ru/"
         },
         {
