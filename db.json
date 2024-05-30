@@ -4,7 +4,8 @@
         "name": "Иванов Иван Петрович",
         "position": "Директор",
         "companyName": "Смарт Сервис",
-        "description": "Нача компания предоставляет лучшее обслуживаение в сфере IT технологий."
+        "description": "Нача компания предоставляет лучшее обслуживаение в сфере IT технологий.",
+        "arrow": "https://mrsergeysavenko.github.io/server-for-smart-service/img/arrow.svg"
     },
     "items": [
         {
@@ -63,7 +64,7 @@
         },
         {
             "name": "Санкт-Петербург, Аптекарская набережная, 20",
-            "url": "adressImg.svg"
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/adressImg.svg"
         },
         {
             "name": "12.5.1978",
