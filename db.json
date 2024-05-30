@@ -14,22 +14,22 @@
         },
         {
             "name": "+79725617548",
-            "url": "./phoneImg.svg",
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/phoneImg.svg",
             "type": "phone"
         },
         {
             "name": "+79213678994",
-            "url": "./phoneImg.svg",
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/phoneImg.svg",
             "type": "phone"
         },
         {
             "name": "IvanPetr@gmail.com",
-            "url": "./mailImg.svg",
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/mailImg.svg",
             "type": "mail"
         },
         {
             "name": "IvanPetr@gmail.com",
-            "url": "./urlImg.svg",
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/urlImg.svg",
             "type": "mail"
         },
         {
@@ -38,27 +38,27 @@
         },
         {
             "name": "12.5.1978",
-            "url": "./dateImg.svg"
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/dateImg.svg"
         },
         {
             "name": "Доцент, Доцент кафедры информационной безопасности",
-            "url": "./personImg.svg"
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/personImg.svg"
         }
     ],
     "companyItems": [
         {
             "name": "+79725617548",
-            "url": "./mobileImg.svg",
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/mobileImg.svg",
             "type": "phone"
         },
         {
             "name": "IvanPetr@gmail.com",
-            "url": "./mailImg.svg",
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/mailImg.svg",
             "type": "mail"
         },
         {
             "name": "IvanPetr@gmail.com",
-            "url": "./urlImg.svg",
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/urlImg.svg",
             "type": "mail"
         },
         {
@@ -67,92 +67,92 @@
         },
         {
             "name": "12.5.1978",
-            "url": "./dateImg.svg"
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/dateImg.svg"
         },
         {
             "name": "Гай Юлий Цезарь, Пантифик Саливан, Хаяо Миядзаки, Федор Бондарчук",
-            "url": "./personImg.svg"
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/personImg.svg"
         },
         {
             "name": "Факс",
-            "url": "./print.svg"
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/print.svg"
         }
     ],
     "links": [
         {
-            "img": "./Telegram.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/Telegram.svg",
             "link": "https://web.telegram.org/a/"
         },
         {
-            "img": "./Whatsapp.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/Whatsapp.svg",
             "link": "https://www.whatsapp.com/?lang=ru_RU"
         },
         {
-            "img": "./Viber.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/Viber.svg",
             "link": "https://www.viber.com/ru/"
         },
         {
-            "img": "Instagram.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/Instagram.svg",
             "link": "https://www.instagram.com/"
         },
         {
-            "img": "Vk.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/Vk.svg",
             "link": "https://vk.com/"
         },
         {
-            "img": "Facebook.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/Facebook.svg",
             "link": "https://www.facebook.com/?locale=ru_RU"
         },
         {
-            "img": "YouTube.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/YouTube.svg",
             "link": "https://www.youtube.com/"
         },
         {
-            "img": "Ok.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/Ok.svg",
             "link": "https://ok.ru/"
         },
         {
-            "img": "Dzen.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/Dzen.svg",
             "link": "https://dzen.ru/?utm_referrer=www.google.com"
         },
         {
-            "img": "Tiktok.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/Tiktok.svg",
             "link": "https://www.tiktok.com/ru-RU/"
         },
         {
-            "img": "./Linked_in.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/Linked_in.svg",
             "link": "https://ru.linkedin.com/"
         }
     ],
     "photo": [
         {
-            "link": "./baseImg.png",
-            "linkMobile": "./mobileImg.png",
+            "link": "https://mrsergeysavenko.github.io/server-for-smart-service/img/baseImg.png",
+            "linkMobile": "https://mrsergeysavenko.github.io/server-for-smart-service/img/mobileImg.png",
             "alt": "фото сотрудника"
         },
         {
-            "link": "./baseImg.png",
-            "linkMobile": "./mobileImg.png",
+            "link": "https://mrsergeysavenko.github.io/server-for-smart-service/img/baseImg.png",
+            "linkMobile": "https://mrsergeysavenko.github.io/server-for-smart-service/img/mobileImg.png",
             "alt": "фото сотрудника"
         },
         {
-            "link": "./baseImg.png",
-            "linkMobile": "./mobileImg.png",
+            "link": "https://mrsergeysavenko.github.io/server-for-smart-service/img/baseImg.png",
+            "linkMobile": "https://mrsergeysavenko.github.io/server-for-smart-service/img/mobileImg.png",
             "alt": "фото сотрудника"
         },
         {
-            "link": "./baseImg.png",
-            "linkMobile": "./mobileImg.png",
+            "link": "https://mrsergeysavenko.github.io/server-for-smart-service/img/baseImg.png",
+            "linkMobile": "https://mrsergeysavenko.github.io/server-for-smart-service/img/mobileImg.png",
             "alt": "фото сотрудника"
         },
         {
-            "link": "./baseImg.png",
-            "linkMobile": "./mobileImg.png",
+            "link": "https://mrsergeysavenko.github.io/server-for-smart-service/img/baseImg.png",
+            "linkMobile": "https://mrsergeysavenko.github.io/server-for-smart-service/img/mobileImg.png",
             "alt": "фото сотрудника"
         },
         {
-            "link": "./baseImg.png",
-            "linkMobile": "./mobileImg.png",
+            "link": "https://mrsergeysavenko.github.io/server-for-smart-service/img/baseImg.png",
+            "linkMobile": "https://mrsergeysavenko.github.io/server-for-smart-service/img/mobileImg.png",
             "alt": "фото сотрудника"
         }
     ]
