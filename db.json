@@ -9,7 +9,7 @@
     "items": [
         {
             "name": "+79094676875",
-            "url": "mobileImg.svg",
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/mobileImg.svg",
             "type": "phone"
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "name": "Санкт-Петербург, Аптекарская набережная, 20",
-            "url": "adressImg.svg"
+            "url": "https://mrsergeysavenko.github.io/server-for-smart-service/img/adressImg.svg"
         },
         {
             "name": "12.5.1978",
@@ -96,7 +96,7 @@
             "link": "https://www.instagram.com/"
         },
         {
-            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/Vk.svg",
+            "img": "https://mrsergeysavenko.github.io/server-for-smart-service/img/VK.svg",
             "link": "https://vk.com/"
         },
         {
