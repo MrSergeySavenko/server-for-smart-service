@@ -9,7 +9,7 @@
     "items": [
         {
             "name": "+79094676875",
-            "url": "./mobileImg.svg",
+            "url": "mobileImg.svg",
             "type": "phone"
         },
         {
@@ -80,43 +80,43 @@
     ],
     "links": [
         {
-            "img": "./Telegram.svg",
+            "img": "Telegram.svg",
             "link": "https://web.telegram.org/a/"
         },
         {
-            "img": "./Whatsapp.svg",
+            "img": "Whatsapp.svg",
             "link": "https://www.whatsapp.com/?lang=ru_RU"
         },
         {
-            "img": "./Viber.svg",
+            "img": "Viber.svg",
             "link": "https://www.viber.com/ru/"
         },
         {
-            "img": "./Instagram.svg",
+            "img": "Instagram.svg",
             "link": "https://www.instagram.com/"
         },
         {
-            "img": "./Vk.svg",
+            "img": "Vk.svg",
             "link": "https://vk.com/"
         },
         {
-            "img": "./Facebook.svg",
+            "img": "Facebook.svg",
             "link": "https://www.facebook.com/?locale=ru_RU"
         },
         {
-            "img": "./YouTube.svg",
+            "img": "YouTube.svg",
             "link": "https://www.youtube.com/"
         },
         {
-            "img": "./Ok.svg",
+            "img": "Ok.svg",
             "link": "https://ok.ru/"
         },
         {
-            "img": "./Dzen.svg",
+            "img": "Dzen.svg",
             "link": "https://dzen.ru/?utm_referrer=www.google.com"
         },
         {
-            "img": "./Tiktok.svg",
+            "img": "Tiktok.svg",
             "link": "https://www.tiktok.com/ru-RU/"
         },
         {
